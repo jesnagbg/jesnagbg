@@ -3,9 +3,9 @@
 I'm a front end developer student, currently studying at Medieinstitutet in Gothenburg.
 
 ### Some fun things I have helped create
-- [Daily Horoscope - Feb 2023](https://your-daily-horoscope.netlify.app/) - React, TypeScript
-- [Save GBG - Jan 2023](https://save-gothenburg.netlify.app/) - Typescript, P5js
-- [About me - Nov 2022](https://jesnagbg.github.io/About-me/) - JavaScript
+- [Daily Horoscope](https://your-daily-horoscope.netlify.app/) Feb 2023 - React, TypeScript
+- [Save GBG](https://save-gothenburg.netlify.app/) Jan 2023 - Typescript, P5js
+- [About me](https://jesnagbg.github.io/About-me/) Nov 2022 - JavaScript
 
 ### Contact me
 

@@ -1,5 +1,3 @@
-## Hi, I'm Jenny! 👋
-
 I'm a front end developer student, currently studying at Medieinstitutet in Gothenburg.
 
 ### Some fun things I have helped create
